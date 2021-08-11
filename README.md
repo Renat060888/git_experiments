@@ -13,3 +13,7 @@
     * edit from "third" branch
 
     * second edit
+
+    
+
+    up-to-date test: merge to feature from master ( from 3rd branch )
