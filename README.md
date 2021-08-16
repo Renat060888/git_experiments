@@ -27,3 +27,9 @@
 
 
     check rebase with no changes in master
+
+    squash 1
+
+    squash 2
+
+    squash 3
