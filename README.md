@@ -18,3 +18,12 @@
     up-to-date test: merge to feature from master ( from 3rd branch )
 
     up-to-date with master test: changes in master...
+
+
+
+
+
+
+
+
+    check rebase with no changes in master
